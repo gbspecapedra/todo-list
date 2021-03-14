@@ -1,9 +1,10 @@
+@import './_mixins.scss';
+
 header.header {
   background: linear-gradient(90deg, var(--purple) 35%, var(--blue) 100%);
   padding-top: 2rem;
   
   > div {
-    max-width: 1120px;
     margin: 0 auto;
 
     padding: 2rem 1rem 12rem;
