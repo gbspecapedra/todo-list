@@ -7,6 +7,7 @@
 <p align="center">
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licence">Licence</a>
 </p>
@@ -34,6 +35,11 @@ An application where your main objective is a to-do list, to practice a little m
 This project was developed with the following technologies:
 
 - [React](https://reactjs.org)
+
+## 🔖 Layout
+
+Created from Rocketseat [template](https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react).
+Layout inspired by [Khalid design](https://www.behance.net/gallery/115003539/TODO-web-design).
 
 ## ✨ Features
 
