@@ -21,6 +21,7 @@ export function TaskList() {
       ...tasks,
       { id: uuidv4(), title: newTaskTitle, isComplete: false },
     ]);
+    setNewTaskTitle("");
   }
 
   function handleToggleTaskCompletion(id: ID) {

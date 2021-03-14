@@ -39,7 +39,6 @@ This project was developed with the following technologies:
 ## 🔖 Layout
 
 Created from Rocketseat [template](https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react).
-Layout inspired by [Khalid design](https://www.behance.net/gallery/115003539/TODO-web-design).
 
 ## ✨ Features
 
