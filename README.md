@@ -2,7 +2,9 @@
   to.do list
 </h1>
 
-<p align="center">Ignite Challenge 01</p>
+<p align="center">
+  <a href="https://github.com/gisabernardess/ignite-reactjs" rel="nofollow">Ignite Journey</a> - Challenge 01
+</p>
 
 <p align="center">
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -24,7 +26,11 @@
   <img alt="Github license" src="https://img.shields.io/github/license/gisabernardess/todo-list">
 </p>
 
-<br>
+<p align="center">
+  <img alt="to.do list" src="https://user-images.githubusercontent.com/17882257/111080408-192dc180-84dd-11eb-929d-663018025b4a.gif">
+</p>
+
+<br/>
 
 ## 💻 Project
 
@@ -35,6 +41,7 @@ An application where your main objective is a to-do list, to practice a little m
 This project was developed with the following technologies:
 
 - [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## 🔖 Layout
 
